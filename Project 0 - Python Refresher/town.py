@@ -4,7 +4,7 @@
 # educational purposes provided that (1) you do not distribute or publish
 # solutions, (2) you retain this notice, and (3) you provide clear
 # attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
-# 
+#
 # Attribution Information: The Pacman AI projects were developed at UC Berkeley.
 # The core projects and autograders were primarily created by John DeNero
 # (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
@@ -33,7 +33,7 @@ class Town:
             fruit: Fruit string
 
             route: List of shop names
-        Returns the best cost per pound of 'fruit' at any of the shops along 
+        Returns the best cost per pound of 'fruit' at any of the shops along
         the route. If none of the shops carry 'fruit', returns None
         """
         routeShops = [ shop for shop in self.shops if shop.getName() in route ]
@@ -55,7 +55,7 @@ class Town:
         Returns whether all fruit in the order list can be purchased at at least
         one of these shops.
         """
-        return None not in [self.getFruitCostPerPoundOnRoute(fruit, shops) 
+        return None not in [self.getFruitCostPerPoundOnRoute(fruit, shops)
                 for fruit, _ in orderList]
 
     def getDistance(self, loc1, loc2):
@@ -72,13 +72,13 @@ class Town:
     def getTotalDistanceOnRoute(self, route):
         """
             route: List of shop names
-        Returns the total distance traveled by starting at 'home', going to 
+        Returns the total distance traveled by starting at 'home', going to
         each shop on the route in order, then returning to 'home'
         """
         if not route:
             return 0
         totalDistance = self.getDistance('home', route[0])
-        for i in xrange(len(route) - 1):
+        for i in range(len(route) - 1):
             totalDistance += self.getDistance(route[i], route[i+1])
         totalDistance += self.getDistance(route[-1], 'home')
         return totalDistance
@@ -91,7 +91,7 @@ class Town:
 
             gasCost: A number representing the cost of driving 1 mile
         Returns cost of orderList on this route. If any fruit are not available
-        on this route, returns None. 
+        on this route, returns None.
         """
         totalCost = self.getTotalDistanceOnRoute(route) * gasCost
         for fruit, numPounds in orderList:

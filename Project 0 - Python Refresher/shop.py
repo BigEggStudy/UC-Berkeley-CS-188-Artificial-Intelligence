@@ -4,7 +4,7 @@
 # educational purposes provided that (1) you do not distribute or publish
 # solutions, (2) you retain this notice, and (3) you provide clear
 # attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
-# 
+#
 # Attribution Information: The Pacman AI projects were developed at UC Berkeley.
 # The core projects and autograders were primarily created by John DeNero
 # (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
@@ -24,7 +24,7 @@ class FruitShop:
         """
         self.fruitPrices = fruitPrices
         self.name = name
-        print 'Welcome to %s fruit shop' % (name)
+        print('Welcome to %s fruit shop' % (name))
 
     def getCostPerPound(self, fruit):
         """
@@ -53,7 +53,7 @@ class FruitShop:
         return self.name
 
     def __str__(self):
-        return "<FruitShop: %s>" % self.getName()
+        return ("<FruitShop: %s>" % self.getName())
 
     def __repr__(self):
         return str(self)

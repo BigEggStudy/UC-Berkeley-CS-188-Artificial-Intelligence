@@ -4,7 +4,7 @@
 # educational purposes provided that (1) you do not distribute or publish
 # solutions, (2) you retain this notice, and (3) you provide clear
 # attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
-# 
+#
 # Attribution Information: The Pacman AI projects were developed at UC Berkeley.
 # The core projects and autograders were primarily created by John DeNero
 # (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
@@ -24,7 +24,7 @@ import sys
 class Question(object):
 
     def raiseNotDefined(self):
-        print 'Method not implemented: %s' % inspect.stack()[1][3]
+        print('Method not implemented: %s' % inspect.stack()[1][3])
         sys.exit(1)
 
     def __init__(self, questionDict, display):
@@ -145,7 +145,7 @@ class NumberPassedQuestion(Question):
 class TestCase(object):
 
     def raiseNotDefined(self):
-        print 'Method not implemented: %s' % inspect.stack()[1][3]
+        print('Method not implemented: %s' % inspect.stack()[1][3])
         sys.exit(1)
 
     def getPath(self):
