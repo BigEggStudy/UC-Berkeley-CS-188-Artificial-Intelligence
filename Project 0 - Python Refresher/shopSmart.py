@@ -29,7 +29,17 @@ def shopSmart(orderList, fruitShops):
         fruitShops: List of FruitShops
     """
     "*** YOUR CODE HERE ***"
-    return None
+    min_cost = 10000
+    min_shop = None
+    for shop in fruitShops:
+        totalCost = 0
+        for (fruit, numPounds) in orderList:
+            if fruit in shop.fruitPrices:
+                totalCost += shop.fruitPrices[fruit] * numPounds
+        if min_cost > totalCost:
+            min_cost = totalCost
+            min_shop = shop
+    return min_shop
 
 if __name__ == '__main__':
   "This code runs when you invoke the script from the command line"
