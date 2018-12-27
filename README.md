@@ -7,4 +7,5 @@ Assignment code for UC Berkeley CS 188 Artificial Intelligence.
    * [buyLotsOfFruit.py](./Project0-PythonRefresher/buyLotsOfFruit.py)
    * [shopSmart.py](./Project0-PythonRefresher/shopSmart.py)
 
-## Homeworks
+## Quiz
+* [Quiz 1 - Planning Agents vs. Reflex Agents](./Quiz/Quiz01-PlanningAgentsVsReflexAgents.pdf)
