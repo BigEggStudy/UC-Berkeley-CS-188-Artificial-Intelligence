@@ -1,7 +1,7 @@
 # UC Berkeley CS 188 Artificial Intelligence
 Assignment code for UC Berkeley CS 188 Artificial Intelligence.
 
-For open course materia in edX, use this class: [BerkeleyX: CS188.1x
+For open course material in edX, using this class: [BerkeleyX: CS188.1x
 Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)
 
 ## Projects
@@ -9,8 +9,11 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [addition.py](./Projects/Project0-PythonRefresher/addition.py)
    * [buyLotsOfFruit.py](./Projects/Project0-PythonRefresher/buyLotsOfFruit.py)
    * [shopSmart.py](./Projects/Project0-PythonRefresher/shopSmart.py)
+2. Project 1: Search ([Python 3 Version](https://github.com/BigEggStudy/UW-CSEP-573-Wi19-Artificial-Intelligence/blob/master/Project%201%20-%20Search/))
+   * search.py
+   * searchAgents.py
 
-## Quiz
+## Quizzes
 1. Lecture 2: Uninformed Search
    * [Quiz 1: Planning Agents vs. Reflex Agents](./Quizzes/Lecture2-UninformedSearch/Quiz01-PlanningAgentsVsReflexAgents.pdf)
    * [Quiz 2: Safe Passage](./Quizzes/Lecture2-UninformedSearch/Quiz02-SafePassage.pdf)
@@ -47,7 +50,7 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 7: Arc Consistency](./Quizzes/Lecture4-CSPs/Quiz07-ArcConsistency.pdf)
    * [Quiz 8: Least Constraining Value](./Quizzes/Lecture4-CSPs/Quiz08-LeastConstrainingValue.pdf)
 
-# Homework
+# Homeworks
 1. Homework 1 - Search
    * [Question 1: Search Trees](./Homeworks/Homework1-Search/Question01-SearchTrees.pdf)
    * [Question 2: Depth-First Graph Search](./Homeworks/Homework1-Search/Question02-DepthFirstGraphSearch.pdf)
