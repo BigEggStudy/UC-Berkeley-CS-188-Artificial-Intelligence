@@ -37,6 +37,15 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 10: Admissible Heuristics](./Quizzes/Lecture3-InformedSearch/Quiz10-AdmissibleHeuristics.pdf)
    * [Quiz 11: Combining Heuristics](./Quizzes/Lecture3-InformedSearch/Quiz11-CombiningHeuristics.pdf)
    * [Quiz 12: Consistency](./Quizzes/Lecture3-InformedSearch/Quiz12-Consistency.pdf)
+2. Lecture 4: CSPs
+   * [Quiz 1: Constraints](./Quizzes/Lecture4-CSPs/Quiz01-Constraints.pdf)
+   * [Quiz 2: Constraint Graphs](./Quizzes/Lecture4-CSPs/Quiz02-ConstraintGraphs.pdf)
+   * [Quiz 3: Constraints](./Quizzes/Lecture4-CSPs/Quiz03-Constraints.pdf)
+   * [Quiz 4: Backtracking Search](./Quizzes/Lecture4-CSPs/Quiz04-BacktrackingSearch.pdf)
+   * [Quiz 5: Forward Checking](./Quizzes/Lecture4-CSPs/Quiz05-ForwardChecking.pdf)
+   * [Quiz 6: Arc Consistency](./Quizzes/Lecture4-CSPs/Quiz06-ArcConsistency.pdf)
+   * [Quiz 7: Arc Consistency](./Quizzes/Lecture4-CSPs/Quiz07-ArcConsistency.pdf)
+   * [Quiz 8: Least Constraining Value](./Quizzes/Lecture4-CSPs/Quiz08-LeastConstrainingValue.pdf)
 
 # Homework
 1. Homework 1 - Search
