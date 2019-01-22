@@ -40,7 +40,7 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 10: Admissible Heuristics](./Quizzes/Lecture3-InformedSearch/Quiz10-AdmissibleHeuristics.pdf)
    * [Quiz 11: Combining Heuristics](./Quizzes/Lecture3-InformedSearch/Quiz11-CombiningHeuristics.pdf)
    * [Quiz 12: Consistency](./Quizzes/Lecture3-InformedSearch/Quiz12-Consistency.pdf)
-2. Lecture 4: CSPs
+3. Lecture 4: CSPs
    * [Quiz 1: Constraints](./Quizzes/Lecture4-CSPs/Quiz01-Constraints.pdf)
    * [Quiz 2: Constraint Graphs](./Quizzes/Lecture4-CSPs/Quiz02-ConstraintGraphs.pdf)
    * [Quiz 3: Constraints](./Quizzes/Lecture4-CSPs/Quiz03-Constraints.pdf)
@@ -49,6 +49,11 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 6: Arc Consistency](./Quizzes/Lecture4-CSPs/Quiz06-ArcConsistency.pdf)
    * [Quiz 7: Arc Consistency](./Quizzes/Lecture4-CSPs/Quiz07-ArcConsistency.pdf)
    * [Quiz 8: Least Constraining Value](./Quizzes/Lecture4-CSPs/Quiz08-LeastConstrainingValue.pdf)
+4. Lecture 5: CSPs II
+   * [Quiz 1: Tree-Structured CSPs](./Quizzes/Lecture5-CSPsII/Quiz01-TreeStructuredCSPs.pdf)
+   * [Quiz 2: Smallest Cutset](./Quizzes/Lecture5-CSPsII/Quiz02-SmallestCutset.pdf)
+   * [Quiz 3: Min-Conflicts](./Quizzes/Lecture5-CSPsII/Quiz03-MinConflicts.pdf)
+   * [Quiz 4: Hill Climbing](./Quizzes/Lecture5-CSPsII/Quiz04-HillClimbing.pdf)
 
 # Homeworks
 1. Homework 1 - Search
