@@ -10,8 +10,8 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [buyLotsOfFruit.py](./Projects/Project0-PythonRefresher/buyLotsOfFruit.py)
    * [shopSmart.py](./Projects/Project0-PythonRefresher/shopSmart.py)
 2. Project 1: Search ([Python 3 Version](https://github.com/BigEggStudy/UW-CSEP-573-Wi19-Artificial-Intelligence/blob/master/Project%201%20-%20Search/))
-   * search.py
-   * searchAgents.py
+   * [search.py](./Projects/Project1-Search/search.py)
+   * [searchAgents.py](./Projects/Project1-Search/searchAgents.py)
 
 ## Quizzes
 1. Lecture 2: Uninformed Search
