@@ -58,6 +58,12 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 1: Minimax](./Quizzes/Lecture06-AdversarialSearch/Quiz01-Minimax.pdf)
    * [Quiz 2: Evaluation and Collaboration](./Quizzes/Lecture06-AdversarialSearch/Quiz02-EvaluationAndCollaboration.pdf)
    * [Quiz 3: Alpha-Beta Pruning](./Quizzes/Lecture06-AdversarialSearch/Quiz03-AlphaBetaPruning.pdf)
+6. Lecture 7: Uncertainty and Utilities
+   * [Quiz 1: Expectimax](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz01-Expectimax.pdf)
+   * [Quiz 3: Other Games](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz03-OtherGames.pdf)
+   * [Quiz 4: Monotonic Transformations](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz04-MonotonicTransformations.pdf)
+   * [Quiz 5: Rationality](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz05-Rationality.pdf)
+   * [Quiz 6: Certainty Equivalent Values](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz06-CertaintyEquivalentValues.pdf)
 
 # Homeworks
 1. Homework 1 - Search
