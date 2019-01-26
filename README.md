@@ -54,6 +54,10 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 2: Smallest Cutset](./Quizzes/Lecture5-CSPsII/Quiz02-SmallestCutset.pdf)
    * [Quiz 3: Min-Conflicts](./Quizzes/Lecture5-CSPsII/Quiz03-MinConflicts.pdf)
    * [Quiz 4: Hill Climbing](./Quizzes/Lecture5-CSPsII/Quiz04-HillClimbing.pdf)
+6. Lecture 6: Adversarial Search
+   * [Quiz 1: Minimax](./Quizzes/Lecture6-AdversarialSearch/Quiz01-Minimax.pdf)
+   * [Quiz 2: Evaluation and Collaboration](./Quizzes/Lecture6-AdversarialSearch/Quiz02-EvaluationAndCollaboration.pdf)
+   * [Quiz 3: Alpha-Beta Pruning](./Quizzes/Lecture6-AdversarialSearch/Quiz03-AlphaBetaPruning.pdf)
 
 # Homeworks
 1. Homework 1 - Search
