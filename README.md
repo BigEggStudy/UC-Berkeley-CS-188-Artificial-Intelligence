@@ -64,6 +64,11 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 4: Monotonic Transformations](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz04-MonotonicTransformations.pdf)
    * [Quiz 5: Rationality](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz05-Rationality.pdf)
    * [Quiz 6: Certainty Equivalent Values](./Quizzes/Lecture07-UncertaintyAndUtilities/Quiz06-CertaintyEquivalentValues.pdf)
+7. Lecture 8: Markov Decision Processes
+   * [Quiz 1: MDP Notation](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz01-MDPNotation.pdf)
+   * [Quiz 2: Discounting](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz02-Discounting.pdf)
+   * [Quiz 3: Solving MDPs](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz03-SolvingMDPs.pdf)
+   * [Quiz 4: Value Iteration](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz04-ValueIteration.pdf)
 
 # Homeworks
 1. Homework 1 - Search
@@ -112,7 +117,7 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Question 6: Arc Consistency](./Homeworks/Homework02-CSPs(Practice)/Question06-ArcConsistency.pdf)
    * [Question 7: Arc Consistency Properties](./Homeworks/Homework02-CSPs(Practice)/Question07-ArcConsistencyProperties.pdf)
    * [Question 8: Backtracking Arc Consistency](./Homeworks/Homework02-CSPs(Practice)/Question08-BacktrackingArcConsistency.pdf)
-6. Homework 3 - Games
+5. Homework 3 - Games
    * [Question 1: Minimax](./Homeworks/Homework03-Games/Question01-Minimax.pdf)
    * [Question 2: Expectiminimax](./Homeworks/Homework03-Games/Question02-Expectiminimax.pdf)
    * [Question 3: Unknown Leaf Value](./Homeworks/Homework03-Games/Question03-UnknownLeafValue.pdf)
