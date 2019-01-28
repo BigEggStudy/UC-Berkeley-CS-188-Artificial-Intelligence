@@ -69,6 +69,10 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 2: Discounting](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz02-Discounting.pdf)
    * [Quiz 3: Solving MDPs](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz03-SolvingMDPs.pdf)
    * [Quiz 4: Value Iteration](./Quizzes/Lecture08-MarkovDecisionProcesses/Quiz04-ValueIteration.pdf)
+8. Lecture 9: Markov Decision Processes II
+   * [Quiz 1: The Bellman Equation](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz01-TheBellmanEquation.pdf)
+   * [Quiz 2: Policy Evaluation](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz02-PolicyEvaluation.pdf)
+   * [Quiz 3: Policy Iteration](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz03-PolicyIteration.pdf)
 
 # Homeworks
 1. Homework 1 - Search
