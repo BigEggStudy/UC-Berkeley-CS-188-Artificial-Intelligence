@@ -79,6 +79,9 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 3: Passive Reinforcement Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz03-PassiveReinforcementLearning.pdf)
    * [Quiz 4: TD Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz04-TDLearning.pdf)
    * [Quiz 5: Q-Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz05-QLearning.pdf)
+0. Lecture 11: Reinforcement Learning II
+   * [Quiz 1: Exploration vs. Exploitation](./Quizzes/Lecture11-ReinforcementLearningII/Quiz01-ExplorationVsExploitation.pdf)
+   * [Quiz 2: Feature-Based Representations](./Quizzes/Lecture11-ReinforcementLearningII/Quiz02-FeatureBasedRepresentations.pdf)
 
 # Homeworks
 1. Homework 1 - Search
