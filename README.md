@@ -73,6 +73,12 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Quiz 1: The Bellman Equation](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz01-TheBellmanEquation.pdf)
    * [Quiz 2: Policy Evaluation](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz02-PolicyEvaluation.pdf)
    * [Quiz 3: Policy Iteration](./Quizzes/Lecture09-MarkovDecisionProcessesII/Quiz03-PolicyIteration.pdf)
+9. Lecture 10: Reinforcement Learning
+   * [Quiz 1: Reinforcement Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz01-ReinforcementLearning.pdf)
+   * [Quiz 2: Model-Based Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz02-ModelBasedLearning.pdf)
+   * [Quiz 3: Passive Reinforcement Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz03-PassiveReinforcementLearning.pdf)
+   * [Quiz 4: TD Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz04-TDLearning.pdf)
+   * [Quiz 5: Q-Learning](./Quizzes/Lecture10-ReinforcementLearning/Quiz05-QLearning.pdf)
 
 # Homeworks
 1. Homework 1 - Search
