@@ -200,3 +200,30 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Question 7: Exploration and Exploitation](./Homeworks/Homework05-ReinforcementLearning(Practice)/Question07-ExplorationAndExploitation.pdf)
    * [Question 8: Feature-Based Representation: Actions](./Homeworks/Homework05-ReinforcementLearning(Practice)/Question08-FeatureBasedRepresentation-Actions.pdf)
    * [Question 9: Feature-Based Representation: Update](./Homeworks/Homework05-ReinforcementLearning(Practice)/Question09-FeatureBasedRepresentation-Update.pdf)
+
+
+# Midterm Exam
+0. Practice I
+   * [Question 1: Search](./MidtermExam/PracticeI/Question01-Search.pdf)
+   * [Question 2: Hive Minds](./MidtermExam/PracticeI/Question02-HiveMinds.pdf)
+   * [Question 3: CSPs: Time Management](./MidtermExam/PracticeI/Question03-CSPs-TimeManagement.pdf)
+   * [Question 4: Surrealist Pacman](./MidtermExam/PracticeI/Question04-SurrealistPacman.pdf)
+   * [Question 5: MDPs: Grid-World Water Park](./MidtermExam/PracticeI/Question05-MDPs-GridWorldWaterPark.pdf)
+   * [Question 6: Short Answer: Search](./MidtermExam/PracticeI/Question06-ShortAnswer-Search.pdf)
+   * [Question 7: Short Answer: Iterative Deepening](./MidtermExam/PracticeI/Question07-ShortAnswer-IterativeDeepening.pdf)
+   * [Question 8: Short Answer: Dominance](./MidtermExam/PracticeI/Question08-ShortAnswer-Dominance.pdf)
+   * [Question 9: Short Answer: Heuristics](./MidtermExam/PracticeI/Question09-ShortAnswer-Heuristics.pdf)
+   * [Question 10: Short Answer: CSP](./MidtermExam/PracticeI/Question10-ShortAnswer-CSP.pdf)
+   * [Question 11: Short Answer: Games](./MidtermExam/PracticeI/Question11-ShortAnswer-Games.pdf)
+0. Practice I
+   * [Question 1: Search](./MidtermExam/PracticeI(Practice)/Question01-Search.pdf)
+   * [Question 2: Hive Minds](./MidtermExam/PracticeI(Practice)/Question02-HiveMinds.pdf)
+   * [Question 3: CSPs: Time Management](./MidtermExam/PracticeI(Practice)/Question03-CSPs-TimeManagement.pdf)
+   * [Question 4: Surrealist Pacman](./MidtermExam/PracticeI(Practice)/Question04-SurrealistPacman.pdf)
+   * [Question 5: MDPs: Grid-World Water Park](./MidtermExam/PracticeI(Practice)/Question05-MDPs-GridWorldWaterPark.pdf)
+   * [Question 6: Short Answer: Search](./MidtermExam/PracticeI(Practice)/Question06-ShortAnswer-Search.pdf)
+   * [Question 7: Short Answer: Iterative Deepening](./MidtermExam/PracticeI(Practice)/Question07-ShortAnswer-IterativeDeepening.pdf)
+   * [Question 8: Short Answer: Dominance](./MidtermExam/PracticeI(Practice)/Question08-ShortAnswer-Dominance.pdf)
+   * [Question 9: Short Answer: Heuristics](./MidtermExam/PracticeI(Practice)/Question09-ShortAnswer-Heuristics.pdf)
+   * [Question 10: Short Answer: CSP](./MidtermExam/PracticeI(Practice)/Question10-ShortAnswer-CSP.pdf)
+   * [Question 11: Short Answer: Games](./MidtermExam/PracticeI(Practice)/Question11-ShortAnswer-Games.pdf)
