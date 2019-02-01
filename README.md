@@ -215,7 +215,7 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Question 9: Short Answer: Heuristics](./MidtermExam/PracticeI/Question09-ShortAnswer-Heuristics.pdf)
    * [Question 10: Short Answer: CSP](./MidtermExam/PracticeI/Question10-ShortAnswer-CSP.pdf)
    * [Question 11: Short Answer: Games](./MidtermExam/PracticeI/Question11-ShortAnswer-Games.pdf)
-0. Practice I
+0. Practice I (Practice)
    * [Question 1: Search](./MidtermExam/PracticeI(Practice)/Question01-Search.pdf)
    * [Question 2: Hive Minds](./MidtermExam/PracticeI(Practice)/Question02-HiveMinds.pdf)
    * [Question 3: CSPs: Time Management](./MidtermExam/PracticeI(Practice)/Question03-CSPs-TimeManagement.pdf)
@@ -227,3 +227,13 @@ Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T
    * [Question 9: Short Answer: Heuristics](./MidtermExam/PracticeI(Practice)/Question09-ShortAnswer-Heuristics.pdf)
    * [Question 10: Short Answer: CSP](./MidtermExam/PracticeI(Practice)/Question10-ShortAnswer-CSP.pdf)
    * [Question 11: Short Answer: Games](./MidtermExam/PracticeI(Practice)/Question11-ShortAnswer-Games.pdf)
+0. Practice II
+   * [Question 1: Search](./MidtermExam/PracticeII/Question01-Search.pdf)
+   * [Question 2: Search: Heuristic Function Properties](./MidtermExam/PracticeI/Question02-Search-HeuristicFunctionProperties.pdf)
+   * [Question 3: Search: Slugs](./MidtermExam/PracticeI/Question03-Search-Slugs.pdf)
+   * [Question 4: Value Functions](./MidtermExam/PracticeI/Question04-ValueFunctions.pdf)
+   * [Question 5: CSPs: CS188x Offices](./MidtermExam/PracticeI/Question05-CSPs-CS188xOffices.pdf)
+   * [Question 6: CSP Properties](./MidtermExam/PracticeI/Question06-CSPProperties.pdf)
+   * [Question 7: Games: Alpha-Beta Pruning](./MidtermExam/PracticeI/Question07-Games-AlphaBetaPruning.pdf)
+   * [Question 8: Utilities: Low/High](./MidtermExam/PracticeI/Question08-Utilities-LowHigh.pdf)
+   * [Question 9: MDPs and Reinforcement Learning: Mini-Grids](./MidtermExam/PracticeI/Question09-MDPsAndReinforcementLearning-MiniGrids.pdf)
